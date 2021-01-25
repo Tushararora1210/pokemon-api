@@ -1,4 +1,4 @@
-### POKEMON-API USING REACT
+# POKEMON-API USING REACT
 
 ### Data Fetched from 
 ```https://pokeapi.co/api/v2/pokemon?offset=120&limit=20```
