@@ -21,9 +21,14 @@
 │
 └───functions
         function.js
-        ```
-        
+ ```
+
 ### API keys
-next
-prev
-results
+```
+next:Link to the next pokemons api
+
+prev:Link to the previous pokemons api
+
+results:Array of info of Pokemons
+
+```
