@@ -4,7 +4,7 @@
 ```https://pokeapi.co/api/v2/pokemon?offset=120&limit=20```
 
 ### Project File Structure
-C:.
+```C:.
 │   App.css
 │   App.js
 │   App.test.js
@@ -21,6 +21,8 @@ C:.
 │
 └───functions
         function.js
+        ```
+        
 ### API keys
 next
 prev
